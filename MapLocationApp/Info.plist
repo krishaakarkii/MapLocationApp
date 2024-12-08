@@ -1,0 +1,11 @@
+//
+//  Info.plist
+//  MapLocationApp
+//
+//  Created by Krisha Karki on 19.9.2024.
+//
+<key>NSLocationWhenInUseUsageDescription</key>
+<string>We need your location to show it on the map.</string>
+<key>NSLocationAlwaysUsageDescription</key>
+<string>We need your location to show it on the map.</string>
+
